@@ -12,5 +12,8 @@ and Close buttons as well.
 ## Link to website of Exercise 1
 <a href="https://davidtc8.github.io/Coding-test/" target="_blank">Webpage!</a>
 
+## Exercise 2
+Goal: Implement the function once, which takes any function (fn) as an argument.
+
 ## Link to repository of Exercise 2
 <a href="https://github.com/davidtc8/Coding-test/blob/master/Ex2/script.js" target="_blank">Script Link</a>
