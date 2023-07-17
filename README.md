@@ -1,7 +1,7 @@
 # Coding-test
 Coding Test for Nymbus
 
-# What's the repo about?
+## What's the repo about?
 In this repo you'll find both solutions for the tests given during the technical interview.
 
 ## Exercise 1
