@@ -1,0 +1,44 @@
+/* CSS Variables */
+:root {
+    --button-color: #001C30;
+    --modal-color: #0A2647;
+    --text-color: white;
+    --left: 50%;
+    --position: absolute;
+    --transform: translate(-50%, -50%);
+}
+
+/* Color for h5 and input */
+h5, input {
+    color: var(--text-color) !important;
+}
+
+/* Styling buttons */
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: var(--button-color) !important;
+    border-color: var(--button-color) !important;
+}
+
+/* Styling the modal */
+input, .modal-color, .close-button {
+    background-color: var(--modal-color) !important;
+}
+
+/* Styling the main div so everything is centered */
+.center {
+    color: var(--text-color);
+    position: var(--position);
+    top: 50%;
+    left: var(--left);
+    transform: var(--transform);
+    padding: 10px;
+}
+
+/* Styling our button so is in the middle of the page */
+.button {
+    margin: 0;
+    position: var(--position);
+    left: var(--left);
+    -ms-transform: var(--transform);
+    transform: translate(-50%, 0%);
+}
